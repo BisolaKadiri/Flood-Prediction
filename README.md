@@ -33,9 +33,3 @@ State. While the model suggests no floods for the remaining days of July 2024, i
 importance of continuous monitoring and updating predictive models with new data. Further
 research could involve incorporating additional variables and exploring different modeling
 techniques to improve accuracy and reliability.
-Here is the link to my Colab notebook, where I conducted a comprehensive analysis of weather
-data for Lagos State to predict flood occurrences. The notebook includes data cleaning,
-visualization, feature engineering, model training, and evaluation steps, using a Decision Tree
-Classifier for prediction. You can access the detailed code and results through the link: https://colab.research.google.com/drive/1kiT5j6zBqayNUDV2YQzpvu8jfb0jDHBT#scrollTo=1ny9bSqAaUcb
-
-Flood Prediction (Lagos State.ipynb
